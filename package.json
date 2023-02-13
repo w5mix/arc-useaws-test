@@ -1,0 +1,14 @@
+{
+  "name": "arc-useaws-test",
+  "version": "0.0.0",
+  "description": "A fresh new Architect project!",
+  "scripts": {
+    "start": "npx sandbox"
+  },
+  "devDependencies": {
+    "@architect/architect": "^10.10.1"
+  },
+  "dependencies": {
+    "@architect/functions": "^5.3.3"
+  }
+}
