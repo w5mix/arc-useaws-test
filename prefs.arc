@@ -3,4 +3,4 @@ autocreate true
 
 @sandbox
 livereload true
-useAWS false
+useAWS true
