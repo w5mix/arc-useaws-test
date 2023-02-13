@@ -10,7 +10,7 @@ clone repo and deploy the app: `npx arc deploy`
 
 ### **First**: Confirm Arc stores to Dynalite
 
-- Set `useAWS` in prefs.arc set to `true`
+- Set `useAWS` in prefs.arc to `true`
 
 - run `npm run start` and navigate to `http://localhost:3333/`
 
@@ -22,7 +22,7 @@ clone repo and deploy the app: `npx arc deploy`
 
 **WITHOUT RESTARTING ARC DEV MODE**
 
-- Set `useAWS` in prefs.arc set to `false` and save.
+- Set `useAWS` in prefs.arc to `false` and save. (Sandbox reloads)
 
 - Navigate to `http://localhost:3333/`
 
