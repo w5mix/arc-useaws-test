@@ -8,7 +8,7 @@ clone repo and deploy the app: `npx arc deploy`
 
 ---
 
-### **First**: Confirm Arc stores to Dynalite
+### **First**: Confirm Arc fails to store to AWS table
 
 - Set `useAWS` in prefs.arc to `true`
 
